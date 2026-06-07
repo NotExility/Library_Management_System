@@ -122,4 +122,5 @@ library_system
 
 Software Architecture Project
 
-Computer Science Student
+Kelvin Nicolas Naga (2802469280)
+Azraqi Aldian Wijaya (2802503362)
