@@ -123,4 +123,5 @@ library_system
 Software Architecture Project
 
 Kelvin Nicolas Naga (2802469280)
+
 Azraqi Aldian Wijaya (2802503362)
